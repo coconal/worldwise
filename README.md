@@ -12,7 +12,9 @@ Currently, two official plugins are available:
 
 # Getting Started
 
-npm install
+git clone https://github.com/coconal/worldwise.git
+
+npm install  /  npm i
 
 npm run dev
 
